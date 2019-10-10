@@ -1,89 +1,77 @@
----
-description: É importante ler a Política de Uso da DisCloud antes de hospedar seu bot.
----
+it's important to read DisCloud's Usage Policy before hosting your bot.
+Use Policy
+Last updated: October 2, 2019
+Effectiveness: June 1, 2019
+This Term sets out the rules for using the DisCloud Platform. Please be advised that by accepting you are hiring our services and accepting the conditions set forth in this agreement. If you do not agree to the terms and conditions presented, do not finalize your registration or use our services. The use of the platform implies tacit contracting of our services and by virtue of that contracting the agreement with the clauses presented here.
 
-# Política de Uso
+Please note that we may change our Use Policy at any time and under DisCloud terms, it is your responsibility to keep up to date and adhere to the policies posted here.
 
-* Última atualização: 02 de outubro de 2019
-* Efetividade: 1 de junho de 2019
+If you have any questions regarding this document, please contact us at support@discloudbot.com .
 
-Este Termo estabelece as regras para utilização da Plataforma DisCloud. Informamos que através da sua aceitação você está contratando nossos serviços e aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não finalize seu cadastro, nem utilize nossos serviços. A utilização da plataforma implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
+Allowed content
+The platform is currently intended exclusively for hosting Discord Bots that are within Discord Inc.'s Terms of Service (TOS)
+Prohibited Content
+1 - Content that violates the rights of third parties (eg copyright) in accordance with applicable law;
 
-Por favor, note que nós podemos mudar nossa Política de Uso, a qualquer momento, e nos termos da DisCloud, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
+2 - Excessively profane content;
 
-Caso persista alguma dúvida sobre este documento entre em contato através do e-mail: [support@discloudbot.com](mailto:support@discloudbot.com).
+3 - Related to hate or violent content;
 
-## Conteúdo permitido
+4 - Content defending racial or ethnic intolerance;
 
-1. A plataforma atualmente é destinada exclusivamente para a hospedagem de Bots Discord que estejam dentro dos [Termos de serviço](https://discordapp.com/terms) \(TOS\) da Discord Inc.
+5 - Content defending hacker or cracker activity;
 
-## Conteúdo proibido
+6 - Online games;
 
-1 - Conteúdo que viole os direitos de terceiros \(por exemplo, direitos de autor\) de acordo com a legislação aplicável;
-
-2 - Conteúdo excessivamente profano;
-
-3 - Relacionado à ódio ou conteúdo violento;
-
-4 - Conteúdo defendendo a intolerância racial ou étnica;
-
-5 - Conteúdo defendendo atividade hacker ou cracker;
-
-6 - Jogos online;
-
-7 - Outra atividade ilegal, incluindo, sem limitação de exposição ilegal de substâncias controladas ou software ilegal;
+7 - Other illegal activity, including, without limitation, illegal exposure of controlled substances or illegal software;
 
 8 - Phishing;
 
-9 - Conteúdo malicioso;
+9 - Malicious content;
 
-10 - Arquivos de backup que não sejam do seu próprio bot ou aplicação;
+10 - Backup files other than your own bot or application;
 
-11 - Outros materiais, produtos ou serviços que violem ou encorajam conduta que viole as leis penais, quaisquer outras leis aplicáveis, nem quaisquer direitos de terceiros.
+11 - Other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any rights of third parties.
 
-12 - Bots com conteúdo NSFW
+12 - Bots with NSFW Content
 
-13 - Qualquer aplicação que vai contra o **conteúdo permitido** desse documento.
+13 - Any application that goes against the permitted content of this document.
 
-## Ações proibidas
+Prohibited actions
+1 - Upload, distribute, disseminate or offer to do the same with respect to any content of character 2 - defamatory, offensive, abusive, fraudulent, infringing, obscene or otherwise objectionable illegal;
 
-1 - Enviar \(upload\), distribuir, disseminar ou oferecer para fazer o mesmo com relação a qualquer conteúdo de caráter 2 - difamatório, ofensivo, abusivo, fraudulento, infrator, obsceno ou de outra forma censurável ilegal;
+3 - Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, prank calls, or any other items of a destructive or deceptive nature;
 
-3 - Distribuir intencionalmente vírus, worms, defeitos, cavalos de Tróia, arquivos corrompidos, trotes, ou quaisquer outros itens de natureza destrutiva ou enganosa;
+4 - Forward pyramid schemes and the like;
 
-4 - Encaminhar esquemas de pirâmide e afins;
+5 - Transmit content that may be harmful to minors;
 
-5 - Transmitir conteúdo que possa ser prejudicial para menores;
+6 - impersonate another person (through the use of a Discord account or otherwise) or misrepresent yourself or the origin of any email;
 
-6 - Passar por outra pessoa \(através da utilização de uma conta Discord ou de outra forma\) ou deturpar a si mesmo ou a origem de qualquer e-mail;
+Illegally transmit intellectual property or other proprietary information without the permission of the owner or licensor;
 
-7 - Transmitir ilegalmente propriedade intelectual ou outras informações proprietárias sem a permissão do proprietário ou do licenciante;
+8 - Use the Service to violate the legal rights (such as rights of privacy and publicity) of others;
 
-8 - Usar o Serviço para violar os direitos legais \(tais como direitos de privacidade e publicidade\) de outros;
+9 - Promote or encourage illegal activity;
 
-9 - Promover ou encorajar atividade ilegal;
+10 - Interfering with the use of the Service of other users;
 
-10 - Interferir na utilização do Serviço de outros usuários;
+11 - Perform significant load tests without first obtaining DisCloud's written consent, otherwise they may be treated as denial of service attacks;
 
-11 - Realizar testes de carga significativa sem antes obter o consentimento escrito da DisCloud, caso contrário, estes podem ser tratados como ataques de negação de serviço;
+12 - Modify, adapt, translate or reverse engineer any part of the Service;
 
-12 - Modificar, adaptar, traduzir ou fazer engenharia reversa de qualquer parte do Serviço;
+13 - Remove any copyright, trademark or other proprietary rights contained in or about the Service;
 
-13 - Remover quaisquer direitos autorais, marcas registradas ou outros direitos de propriedade contidos no ou sobre o Serviço;
+14 - Reformatting or framing any part of the web pages that are part of the service administration exhibition;
 
-14 - Reformatar ou enquadrar qualquer parte das páginas da web que fazem parte da exposição de administração do serviço;
+15 - Use the Service in connection with illegal peer-to-peer file sharing;
 
-15 - Usar o Serviço em conexão com compartilhamento ilegal de arquivos peer-to-peer;
+16 - Use the Service for bitcoins and other cryptocurrencies;
 
-16 - Utilizar o Serviço para bitcoins e outras moedas digitais \(cryptocurrencies\);
+17 - Display any content on the Service that contains any content related to hate or violence or contains any other materials, products or services that violate or encourage conduct that violates criminal laws, any other applicable laws, or any rights of third parties;
 
-17 - Exibir qualquer conteúdo no Serviço que contenha qualquer conteúdo relacionado com ódio ou violência ou contém quaisquer outros materiais, produtos ou serviços que violem ou encorajem conduta que viole as leis penais, quaisquer outras leis aplicáveis, ou quaisquer direitos de terceiros;
+18 - It is completely forbidden to circumvent the free plan by creating 2 Discord accounts to have 2 bots hosted on our platform, if caught all bots will be deleted and your account added to Blacklist.
 
-18 - É completamente proibido burlar o plano free criando 2 contas no Discord para assim ter 2 bots hospedados em nossa plataforma, caso pego todos os bots serão deletados e sua conta adicionada a Blacklist.
+19 - It is prohibited to automate normal Discord user accounts (usually called "self-bots").
 
-19 -   É proibido automatizar contas de usuário normais da Discord \(geralmente chamadas de "self-bots"\).
-
-
-
-`Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Google, Inc. não possui vínculo e não patrocina ou endossa a DisCloud ou o seu uso da obra.`
-
+Este documento é uma
