@@ -74,4 +74,3 @@ Illegally transmit intellectual property or other proprietary information withou
 
 19 - It is prohibited to automate normal Discord user accounts (usually called "self-bots").
 
-Este documento é uma
